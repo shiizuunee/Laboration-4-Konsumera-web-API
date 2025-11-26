@@ -39,3 +39,9 @@ dotnet run
 - Using JsonPropertyName attributes for JSON mapping
 - Async/await for asynchronous operations
 - Formatting numbers and dates in C#
+
+**Author:** Djan Karis Lomongo Freolo 
+
+**Course:** KYHA_DSO25
+
+**Published Date:** 26-11-2025
